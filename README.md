@@ -1,2 +1,2 @@
 # CP-Problems
-All the problems i've solved till date across multiple OJs.
+All the problems that I've solved till date across multiple OJs.
